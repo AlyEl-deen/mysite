@@ -1,0 +1,35 @@
+body {
+  background-color:#F8ECD1;
+}
+hr{
+  width: 5%;
+  border-style: dotted none none;
+  border-color: gray;
+border-width: 5px;
+}
+h1{
+  color: #AC7D88;
+font-family: "Lucida Handwriting", monospace;
+}
+
+h2{
+  color: #AC7D88;
+  font-family: "Lucida Handwriting", monospace;
+}
+h3{
+    color: #AC7D88;font-family: "Lucida Handwriting", monospace;
+}
+h4{color: #85586F;font-family: "Lucida Handwriting", monospace;
+}
+p{
+  color: #85586F;font-family: "Lucida Handwriting", monospace;
+}
+td{
+  color:  #85586F;font-family: "Lucida Handwriting", monospace;
+}
+label{
+  color:  #85586F;font-family: "Lucida Handwriting", monospace;
+}
+ul{
+    color:  #85586F;font-family: "Lucida Handwriting", monospace;
+}
